@@ -6,7 +6,7 @@ export function Footer() {
           <div>
             <h3 className="font-semibold text-lg mb-4">About Us</h3>
             <p className="text-gray-600">
-              We`&#39;re dedicated to providing the best shopping experience for our customers.
+              We&#39;re dedicated to providing the best shopping experience for our customers.
             </p>
           </div>
           
@@ -45,7 +45,7 @@ export function Footer() {
         </div>
         
         <div className="mt-12 pt-8 border-t text-center text-gray-600">
-          <p>&copy; {new Date().getFullYear()} Next Store. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Next Shop. All rights reserved.</p>
         </div>
       </div>
     </footer>
